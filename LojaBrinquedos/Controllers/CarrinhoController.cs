@@ -1,5 +1,4 @@
-﻿using LojaBrinquedos.Repositorio;
-using LojaBrinquedos.Repository;
+﻿using LojaBrinquedos.Repository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LojaBrinquedos.Controllers

@@ -1,7 +1,7 @@
 ﻿using LojaBrinquedos.Models;
 using Newtonsoft.Json;
 
-namespace LojaBrinquedos.Repositorio
+namespace LojaBrinquedos.Repository
 {
     public class CarrinhoRepositorio
     {

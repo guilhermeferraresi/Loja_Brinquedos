@@ -57,3 +57,4 @@ C:\Users\55119\OneDrive\Área de Trabalho\LojaBrinquedos\LojaBrinquedos\obj\Debu
 C:\Users\55119\OneDrive\Área de Trabalho\LojaBrinquedos\LojaBrinquedos\obj\Debug\net8.0\LojaBrinquedos.genruntimeconfig.cache
 C:\Users\55119\OneDrive\Área de Trabalho\LojaBrinquedos\LojaBrinquedos\obj\Debug\net8.0\ref\LojaBrinquedos.dll
 C:\Users\55119\OneDrive\Área de Trabalho\LojaBrinquedos\LojaBrinquedos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\55119\OneDrive\Área de Trabalho\LojaBrinquedos\LojaBrinquedos\obj\Debug\net8.0\LojaBrinquedos.sourcelink.json
